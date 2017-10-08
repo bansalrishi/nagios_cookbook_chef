@@ -1,0 +1,1 @@
+# nagios_cookbook_chef
