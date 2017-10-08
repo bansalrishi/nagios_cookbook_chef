@@ -1,1 +1,1 @@
-# nagios_cookbook_chef
+# chef_cookbook_nagios
